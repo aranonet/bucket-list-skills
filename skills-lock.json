@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "bucket-list-creator": {
+      "source": "aranonet/bucket-list-skills",
+      "sourceType": "github",
+      "skillPath": "skills/bucket-list-creator/SKILL.md",
+      "computedHash": "d9545ad08ff8725eb0ffa08a89de231e6dd28473ce1fbea3a2e065296f639311"
+    }
+  }
+}
